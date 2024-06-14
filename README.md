@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,cpp,github,arduino,matlab,pytorch,tensorflow,opencv,sklearn" />
-    <img src="https://skillicons.dev/icons?i=python,photoshop,latex,nodejs,ros" /><br>
+    <img src="https://skillicons.dev/icons?i=python,photoshop,latex,nodejs,ros,raspberrypi" /><br>
 </div>
 
 <br/>
