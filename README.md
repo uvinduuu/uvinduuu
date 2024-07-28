@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m enthusiastic about **Internet of things, Computer Vision, Machine Learning, Electronic product design, Robotics and automation.**
+ 🔭 I’m enthusiastic about **Robotics and automation, Computer Vision, Machine Learning, Electronic product design, and Internet of things.**
  
 💬 Ask me about **anything related to my interests [here](mailto:uvindukodikara@gmail.com)**
 
