@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uvindu+Kodikara!;" />
 </h1>
 
-<h3 align="center">A passionate Electronic & Telecommunication Engineering Undergraduate from University of Moratuwa </h3>
+<h3 align="center">A passionate Electronic & Telecommunication Engineering Undergraduate from University of Moratuwa, HCI Research Intern at Exertion Games Lab, Monash University, Australia </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m enthusiastic about **Robotics and automation, Computer Vision, Machine Learning, Embedded Systems, and Internet of things.**
+ 🔭 I’m enthusiastic about **Human Computer Interaction based on Embedded Systems, Computer Vision & Pattern Recognition, Robotics and automation, and Internet of things.**
  
 💬 Ask me about **anything related to my interests [here](mailto:uvindukodikara@gmail.com)**
 
