@@ -1,4 +1,3 @@
-
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=uvinduuu.uvinduuu" /> -->
 
 <h1 align="center">
@@ -23,20 +22,21 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/uvindu-kodikara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@uvindukodikara" target="_blank">
-     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://github.com/uvinduuu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,cpp,github,arduino,matlab,pytorch,tensorflow,opencv,sklearn" />
     <img src="https://skillicons.dev/icons?i=python,photoshop,latex,nodejs,ros,raspberrypi" /><br>
@@ -49,7 +49,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -57,12 +56,21 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align="center">
-  <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=uvinduuu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 height=195 src="https://github-readme-stats.vercel.app/api?username=uvinduuu&show_icons=true&theme=react" />
+  <img width="390" height="195" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=uvinduuu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=uvinduuu&show_icons=true&theme=react" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvinduuu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvinduuu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/>
+
+<!-- ⭐ NEW SECTION ADDED HERE (Fixing the blank box) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvinduuu&theme=react" width="800" />
+</div>
+<!-- ⭐ END FIX -->
 
 <br/><br/>
 
